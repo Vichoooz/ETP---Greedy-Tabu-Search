@@ -1,2 +1,2 @@
-# ETP---Greedy-Tabu-Search
+# ETP- Greedy + Tabu Search
 Examination timetabling problem with Greedy + Tabu Search. 
